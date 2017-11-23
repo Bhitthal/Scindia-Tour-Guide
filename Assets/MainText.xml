@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language>
+    <level>
+        <name>English</name>
+        <object name="1">This is item number 1. It has some information.</object>
+        <object name="2">This is item number 2. It has some information.</object>
+        <object name="3">This is item number 3. It has some information.</object>
+        <object name="4">This is item number 4. It has some information.</object>
+        <object name="5">This is item number 5. It has some information.</object>
+        <object name="6">This is item number 6. It has some information.</object>
+        <object name="7">Satsuma vase is a fine of their oriental collection. This highly ornate white satsuma vase with flared scalloped rim, slightly long neck, inverted pear shaped body and broad circular footed base. On either side is a small relief handle in the shape of dragon, in its mouth is a circular ring with a green ribbon hanging from it. The neck and base have hand painted flowers with embossed outlines. </object>
+        <object name="8">This is item number 8. It has some information.</object>
+        <object name="9">This is item number 9. It has some information.</object>
+        <object name="10">This is item number 10. It has some information.</object>
+        <object name="11">11</object>
+        <object name="12">12</object>
+        <object name="13">13</object>
+      
+  </level>
+    <level>
+        <name>Hindi</name>
+        <object name="1">यह पहली वास्तु है. इसकी कुछ जानकारी है.</object>
+        <object name="2">यह दूसरी  वास्तु है. इसकी कुछ जानकारी है.</object>
+        <object name="3">यह तीसरी  वास्तु है. इसकी कुछ जानकारी है.</object>
+        <object name="4">यह चौथी  वास्तु है. इसकी कुछ जानकारी है.</object>
+        <object name="5">यह पांचवी  वास्तु है. इसकी कुछ जानकारी है.</object>
+        <object name="6">यह छति  वास्तु है. इसकी कुछ जानकारी है.</object>
+        <object name="7">सत्सुमा फूलदान उनके प्राच्य संग्रह का हिस्सा  है। फ्लोरिड स्कैलप्ड रिम, थोड़ी लंबी गर्दन, उल्टे नाशपाती आकार का शरीर और व्यापक परिपत्र वाले बेस के साथ यह अत्यधिक अलंकृत सफेद सत्सुमा फूलदान। दोनों ओर ड्रैगन के आकार में एक छोटा सा राहत संभाल होता है, उसके मुंह में एक गोलाकार अंगूठी होता है जिसमें से एक हरा  रिबन होता  है। गर्दन पर हाथों से बने  फूलों को चित्रित किया है। फूलदान  की एक ओर रंगीन  तीन जापानी लड़कियों को  पारंपरिक वेशभूषा में कपड़े पहने हुए हैं चित्रित किया गया है , दूसरे पक्ष में एक नृत्य करते हुए  जापानी आदमी के साथ एक आउटडोर दृश्य है, पृष्ठभूमि में एक छोटे पुरुष व्यक्ति द्वारा देखा गया है</object>
+        <object name="8">8.1</object>
+        <object name="9">9.1</object>
+        <object name="10">10.1</object>
+        <object name="11">11.1</object>
+        <object name="12">12.1</object>
+        <object name="13">13.1</object>
+  </level>
+</language>
+
+
+
+
+
+

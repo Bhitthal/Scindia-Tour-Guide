@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6df3424d116a02b458eeda1147faf4fb
+timeCreated: 1505723448
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carolingia (BigfooT)
+  fontNames:
+  - Carolingia (BigfooT)
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8586db80478d4374b8553aa8eb215fba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

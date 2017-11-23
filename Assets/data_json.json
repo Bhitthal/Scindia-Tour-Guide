@@ -1,0 +1,15 @@
+myObj = {
+    "name":"John",
+    "age":30,
+    "english": {
+        "1":"Ford",
+        "2":"BMW",
+        "3":"Fiat"
+    },
+	
+	"hindi": {
+        "1":"Fordh",
+        "2":"BMWh",
+        "3":"Fiath"
+    }
+ }

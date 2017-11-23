@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7547bc5f9c9208e4cb802b97c8ca6d5c
+timeCreated: 1505723448
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Waltograph
+  fontNames:
+  - Waltograph
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69a30b0a651b31942858814a23c09eb2, type: 3}
+  - {fileID: 12800000, guid: 5fad643a817aa3b438c6889d38644960, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
